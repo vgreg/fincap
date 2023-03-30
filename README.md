@@ -28,7 +28,7 @@ Our code assumes the following directory structure:
 +-- README.md
 ```
 
-We have two code files, which should be executed in the following order:
+We have three code files, which should be executed in the following order:
 
 1. `ComputeMeasures.py` : This code computes daily measures from the raw data files.
 1. `ExtractTradingDays.py` : This code computes actual expiration dates from trading days.
