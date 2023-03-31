@@ -1,5 +1,8 @@
 # #fincap - code description
-Team id GRFN
+
+This code contains the analysis for our contribution to the [Finance Crowd Analysis Project](https://fincap.academy/). For more information, see the [resulting paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574).
+
+Team id GRFN, [Vincent Grégoire](https://www.vincentgregoire.com/) (HEC Montreal) and [Charles Martineau](https://www.charlesmartineau.com/) (University of Toronto). Our "paper" was one of the five best rated papers that were shared with all the teams in the last phase of the project.
 
 ## Requirements
 
